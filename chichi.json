@@ -1,0 +1,20 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "A post from Github 1",
+    "body": "Im create this post just for test!"
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "title": "A post from Github 2",
+    "body": "Im create this post just for test!"
+  },
+  {
+    "userId": 3,
+    "id": 3,
+    "title": "A post from Github 3",
+    "body": "Im create this post just for test!"
+  }
+]
